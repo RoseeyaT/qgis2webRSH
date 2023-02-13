@@ -1,0 +1,56 @@
+body {
+    
+    background-color: #EEE9DA;
+    
+}
+
+a{
+    color: grey ;
+}
+
+p{ 
+    color: #6096B4;
+    font-family: monospace;
+    font-size: 25;
+}
+
+hr{ border-style: none; 
+    border-top-style: dotted;
+    border-color:#93BFCF;
+    border-width: 5px; 
+    width: 90%;}
+img{
+    background-color:none;
+}
+.mushroom{
+    background-color: whitesmoke;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+
+    color: #6096B4;
+    font-style: italic;
+    font-size: 100;
+    font-family:monospace;
+}
+
+#sub{
+
+    color: #BDCDD6;
+    font-style: normal;
+    font-size: 40;
+    font-family:monospace;
+}
+
+#content{
+
+    color: #93BFCF ;
+    font-style: normal;
+    font-size: 30;
+    font-family:monospace;
+
+}
